@@ -1,2 +1,2 @@
-# COP3303
+# COP3330
 Java Programming Assignments
